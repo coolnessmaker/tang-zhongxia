@@ -1,0 +1,2 @@
+# tang-zhongxia
+The purpose of this study was to investigate the relationship between inflammation and lncRNA in mixed dry eye disease (DED) and established competitive endogenous RNA (ceRNA) network in mixed DED. Microarray analysis of cornea from mixed DED mice was performed to screen for differences in lncRNA and target genes, and miRNA bioinformatics were predicted based on the ceRNA hypothesis.
